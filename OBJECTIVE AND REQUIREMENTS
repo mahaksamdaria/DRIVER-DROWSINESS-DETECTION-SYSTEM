@@ -1,0 +1,32 @@
+1. Detecting Fatigue and Drowsiness While Driving:  
+   The primary objective is to identify effective methods for detecting driver fatigue and drowsiness. This includes exploring various physiological indicators, particularly focusing on the eyes and facial expressions, to establish reliable metrics for assessing a driver’s alertness.
+
+2. Studying Eye Movement and Behavior:  
+   We aim to analyze video images of participants engaged in a driving simulation. By studying changes in eye movement, such as blink frequency and duration, we can correlate these metrics with states of fatigue and drowsiness. This analysis will help establish a baseline for normal versus fatigued driving behavior.
+
+3. Developing a Detection System:  
+   The project will involve creating a system that uses specific indicators, such as eye closure and yawning, to assess fatigue levels. By implementing algorithms that process video input in real-time, the system will provide immediate feedback on the driver's alertness, potentially triggering alerts or interventions if drowsiness is detected.
+
+Hardware Requirements
+
+Microphone:  
+  For capturing audio cues, such as yawning, which can indicate fatigue.
+
+Webcam:  
+  A high-quality webcam will be used to record the participant’s facial expressions and eye movements during the driving simulation.
+
+LCD Display:  
+  To provide a visual interface for displaying feedback and alerts to the participant regarding their drowsiness status.
+
+Processor:  
+  Type: Pentium Dual-Core
+  Minimum Speed: 1.6 GHz  
+  This ensures the system can handle real-time video processing and analysis without lag.
+
+RAM:  
+  Minimum: 1 GB  
+  Adequate memory is necessary for processing video data and running detection algorithms smoothly.
+
+Disk Space:  
+  Minimum: 250 MB or higher  
+  Required for storing recorded videos, system software, and analysis data.
